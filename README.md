@@ -1,0 +1,1 @@
+Codewars Solve code
